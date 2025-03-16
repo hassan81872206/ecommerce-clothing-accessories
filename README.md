@@ -1,8 +1,25 @@
-# React + Vite
+# E-Commerce Clothing & Accessories
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern e-commerce website built with **React**, offering a seamless shopping experience for clothing, accessories, and more.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 🛍️ **Product Listing** – Browse a variety of fashion items.
+- 🔍 **Search & Filter** – Easily find products based on categories, price, and keywords.
+- 📦 **Fake API Integration** – Simulated backend for product data.
+- 🎨 **Modern UI** – Responsive and user-friendly interface.
+
+## Technologies Used
+
+- **React** (for building UI components)
+- **Tailwind CSS** (for styling)
+- **Fake API** (for fetching product data)
+- **React Router** (for navigation)
+- **useState & useEffect** (for state management)
+- **DaisyUI** (for enhanced UI components)
+
+## Installation & Setup
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/your-username/ecommerce-clothing-accessories.git
