@@ -1,0 +1,8 @@
+export {default as NavBar} from './NavBar'
+export {default as Landing} from './Landing'
+export {default as About} from './About'
+export {default as ComAbout} from './ComAbout'
+export {default as Services} from './Services'
+export {default as CardServices} from './CardServices'
+export {default as Gallery} from './Gallery'
+export {default as Footer} from './Footer'
